@@ -20,7 +20,7 @@ This project implements a secure file sharing system using the open-source Gokap
 ## Deployment Steps
 
 ### 1. Setup EC2 Instance
-Launch an Amazon EC2 instance and configure it for hosting the application.
+Launch an Amazon EC2 instance, attach an static ip to this instance and configure it for hosting the application.
 
 ### 2. Domain Mapping
 Map a custom domain to the EC2 instance using Nginx as a reverse proxy.
