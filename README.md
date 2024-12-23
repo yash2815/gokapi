@@ -91,6 +91,9 @@ Ensure that Gokapi is configured to use Amazon S3 as its storage backend using t
       - Share this URL with the user and boom! They will be able to access and download that file using the password we have set.
 
 
+## For reference, find the attached screenshots in the same repo.     
+
+
 ## Acknowledgements
 - [Gokapi](https://gokapi.readthedocs.io/en/latest/) - For providing an excellent open-source API for file sharing.
 - [Amazon Web Services](https://aws.amazon.com/) - For reliable cloud infrastructure and services.
